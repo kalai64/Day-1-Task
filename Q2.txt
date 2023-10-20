@@ -1,0 +1,9 @@
+Javascript object:-
+
+        * It's simple object based paradigm. an object is a collection of
+        properties and property association between a name and value.
+
+Internal representation in Javascript:-
+
+        * objects are important data types in Javascript. objects are 
+        different than primitive data type.

@@ -1,0 +1,15 @@
+HTTP 1.1:-
+
+    Multiplexing:-
+          *It loads one by one load processing. And it blocks all resources.
+    
+    Server push:-
+          *It's not comfortable to the serves content push.
+
+HTTP 2:-
+
+    Multiplexing:-
+          *HTTP 2 is single TCP connection send to the multiple streams of data.
+    
+    Server push:-
+          * HTTP 2 is the all serves content what the client will asks it's send the message.
